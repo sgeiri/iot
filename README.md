@@ -8,4 +8,4 @@ The steps identified to solve:
 3. Distribute the link of the users, randomising the radio characteristics of the link
 4. If possible build and interworking mechanism where each active user adds to the interference (which is the case in reality)
 
-The major work lies within point 2. Here it is
+The major work lies within point 2. Here it is neccessary to implement the eNodeB procedures for random access, dedicated channels and retransmission.
